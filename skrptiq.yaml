@@ -1,9 +1,9 @@
 # --- Identity ---
-id: "6588331c-4ce4-41d8-b10c-b63a8c3a91b7"
+id: "1357ba4f-d6c7-4351-af64-5bf56085c9ac"
 name: "source-summarisation"
 display_name: "Source Summarisation"
 description: "Condenses academic papers into key findings, methods, and conclusions"
-version: "1.0.0"
+version: "1.0.1"
 engine: ">=0.1.0"
 author:
   name: "skrptiq"
