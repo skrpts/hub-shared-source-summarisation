@@ -1,7 +1,7 @@
 ---
 type: skill
 id: source-summarisation
-title: Source Summarisation
+title: Source Summarization
 description: "Condenses academic papers into key findings, methods, and conclusions"
 tags: [Production, Academic, Citations, Research]
 ---
